@@ -36,7 +36,7 @@
     <p>Phone: <a href="tel:9793575722">9793575722</a></p>
     <p>Location: Delhi, India</p>
     <a href="https://linkedin.com/yearahul">Linkedin</a>
-    <p>LinkedIn: https://linkedin.com/yearahul</p>
+    <a LinkedIn: https://linkedin.com/yearahul</a>
     <p>GitHub: https://github.com/yearahul</p>
   </div>
 
