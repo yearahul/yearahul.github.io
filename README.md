@@ -28,7 +28,7 @@
 </head>
 <body>
 
-  <h1>Rahul Chaudhary</h1>
+  <h1></h1>
   <p><strong>AEM Developer</strong> skilled in building scalable web solutions using Adobe Experience Manager, Sling, OSGi, and JCR.</p>
 
   <div class="contact">
