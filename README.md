@@ -32,10 +32,10 @@
   <p><strong>AEM Developer</strong> skilled in building scalable web solutions using Adobe Experience Manager, Sling, OSGi, and JCR.</p>
 
   <div class="contact">
-    <p>Email: <a href="mailto:yearahul@outlook.com">yearahul@outlook.com</a></p>
+    <p>Email: <a href="mailto:yearahul@outlook.com">Mail</a> | <a href="https://linkedin.com/yearahul">Linkedin</a> | <a href="https://github.com/yearahul">Github</a></p>
     <p>Phone: <a href="tel:9793575722">9793575722</a></p>
     <p>Location: Delhi, India</p>
-    <a href="https://linkedin.com/yearahul">Linkedin</a> | <a href="https://github.com/yearahul">Github</a>
+    
     
   </div>
 
