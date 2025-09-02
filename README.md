@@ -35,7 +35,7 @@
     <p>Email: <a href="mailto:yearahul@outlook.com">yearahul@outlook.com</a></p>
     <p>Phone: <a href="tel:9793575722">9793575722</a></p>
     <p>Location: Delhi, India</p>
-    <a href="https://linkedin.com/yearahul">Linkedin</a><a href="https://github.com/yearahul">Github</a>
+    <a href="https://linkedin.com/yearahul">Linkedin</a> | <a href="https://github.com/yearahul">Github</a>
     
   </div>
 
