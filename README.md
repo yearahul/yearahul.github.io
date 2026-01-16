@@ -29,7 +29,9 @@
 <body>
 
   
-  <p><strong>AEM Developer</strong> skilled in building scalable web solutions using Adobe Experience Manager, Sling, OSGi, and JCR.</p>
+  <p><strong>AEM Developer</strong> with strong expertise in Adobe AEM, CRXDE, Apache Sling, HTL/HTML5, Java, JavaScript, JCR, and OSGi.
+
+Currently at Cognizant, where I contribute to Workfront implementation, Fusion automation, and REST API integrations. My role focuses on enhancing workflow optimization and supporting digital transformation efforts with scalable solutions.</p>
 
   <div class="contact">
     <p><a href="mailto:yearahul@outlook.com">Mail</a> | <a href="https://linkedin.com/yearahul">Linkedin</a> | <a href="https://github.com/yearahul">Github</a></p>
